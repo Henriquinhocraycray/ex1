@@ -6,6 +6,6 @@
     } elseif ($v1 == 40) {
         echo "Vá com cuidado! Você esta a $v1 km/h";
     } else {
-        echo "Você foi multado por excesso de velocidade";
+        echo "Você foi multado por excesso de velocidade ($v1)";
     }
 ?>
